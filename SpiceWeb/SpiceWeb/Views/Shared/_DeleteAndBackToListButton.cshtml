@@ -1,0 +1,11 @@
+﻿@model int
+
+
+<div class="row">
+    <div class="col-6">
+        <input type="submit" class="btn btn-danger form-control" onclick="return confirm('Are you sure you want to Delete?')"  value="Delete Category" asp-route-Id="@Model" />
+    </div>
+    <div class="col-6">
+        <a asp-action="Index" class="btn btn-success">Back To List</a>
+    </div>
+</div>

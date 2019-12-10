@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceWeb", "SpiceWeb\SpiceWeb.csproj", "{6CC024AD-1702-49F2-AE0B-451B29A83314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC024AD-1702-49F2-AE0B-451B29A83314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC024AD-1702-49F2-AE0B-451B29A83314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC024AD-1702-49F2-AE0B-451B29A83314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC024AD-1702-49F2-AE0B-451B29A83314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CB2B8A-1533-4527-8751-9E4CE06DC28A}
+	EndGlobalSection
+EndGlobal
